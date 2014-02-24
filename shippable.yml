@@ -3,6 +3,5 @@ language: java
 jdk:
    - oraclejdk7
 
-notifications:
-  email: false
+
     
