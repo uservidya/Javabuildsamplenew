@@ -2,12 +2,4 @@ language: java
 
 jdk:
    - oraclejdk7
-notifications:
-  email:
-    recipients:
-      - vidya@shippable.com
-    on_success: always
-    on_failure: always
 
-
-    
