@@ -6,7 +6,7 @@ notifications:
   email:
     recipients:
       - vidya@shippable.com
-    on_success: never
+    on_success: always
     on_failure: always
 
 
