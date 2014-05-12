@@ -6,5 +6,4 @@ script: ant coverage
 notifications:
   email:
       recipients:
-         - vidyac.raghav@gmail.com
-         - vidyatest@hotmail.com
+        - vidyatest@hotmail.com
